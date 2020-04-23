@@ -5,29 +5,29 @@
     
     .num {
         background-color: rgb(241, 131, 6);
-        width: 20px;
-        height: 20px;
+        width: 15%;
+        height: 15%;
         font-size: small;
     }
     
     .ac {
         background-color: rgb(57, 6, 241);
-        width: 46px;
-        height: 20px;
+        width: 30%;
+        height: 15%;
         font-size: small;
     }
     
     .eq {
         background-color: rgb(138, 126, 112);
-        width: 100px;
-        height: 20px;
+        width: 60%;
+        height: 15%;
         font-size: small;
     }
     
     .sy {
         background-color: rgb(84, 218, 84);
-        width: 20px;
-        height: 20px;
+        width: 15%;
+        height: 15%;
         font-size: small;
     }
     
