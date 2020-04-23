@@ -5,30 +5,30 @@
     
     .num {
         background-color: rgb(241, 131, 6);
-        width: 100px;
-        height: 100px;
-        font-size: xx-large;
+        width: 50px;
+        height: 50px;
+        font-size: x-large;
     }
     
     .ac {
         background-color: rgb(57, 6, 241);
-        width: 100px;
-        height: 100px;
-        font-size: xx-large;
+        width: 50px;
+        height: 50px;
+        font-size: x-large;
     }
     
     .eq {
         background-color: rgb(138, 126, 112);
-        width: 100px;
-        height: 100px;
-        font-size: xx-large;
+        width: 50px;
+        height: 50px;
+        font-size: x-large;
     }
     
     .sy {
         background-color: rgb(84, 218, 84);
-        width: 100px;
-        height: 100px;
-        font-size: xx-large;
+        width: 50px;
+        height: 50px;
+        font-size: x-large;
     }
     
     #ans {
